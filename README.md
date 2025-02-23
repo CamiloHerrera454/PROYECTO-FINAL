@@ -6,4 +6,4 @@ Materia: Lógica de Programación
 
 Nivel: 1er Semestre
 
-Objetivo: Temas 1 y 2
+Objetivo: Temas 1. 2 Y 3

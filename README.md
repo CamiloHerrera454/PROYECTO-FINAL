@@ -9,7 +9,7 @@ Nivel: 1er Semestre
 Objetivo: El objetivo de esta introducción es resaltar la importancia de la programación en la era digital actual. Se menciona cómo aprender a programar no solo ayuda a comprender mejor la tecnología, sino también a desarrollar habilidades lógicas y creativas. Además, se presenta el proyecto del juego del ahorcado en Python como una oportunidad práctica para aplicar estos conocimientos y habilidades aprendidas en los temas 1, 2 , 3, y 4.
 
 Principales funcionalidades del programa:
-Aquí tienes algunos puntos importantes resaltados:
+Puntos importantes resaltados durante su desarrollo:
 
 -import random: Importa la librería random, la cual es esencial para seleccionar una palabra de forma aleatoria.
 -secreta = random.choice(palabras): Selecciona una palabra aleatoria de la lista de palabras.

@@ -12,11 +12,19 @@ Principales funcionalidades del programa:
 Puntos importantes resaltados durante su desarrollo:
 
 -import random: Importa la librería random, la cual es esencial para seleccionar una palabra de forma aleatoria.
+
 -secreta = random.choice(palabras): Selecciona una palabra aleatoria de la lista de palabras.
+
 -cadena = "-" * len(secreta): Genera una cadena de guiones de acuerdo a la longitud de la palabra secreta.
+
 -Bucle while True:: Mantiene el juego en ejecución hasta que se rompa el bucle con un break.
+
 -Entrada del usuario (input): El usuario ingresa una letra para adivinar.
+
 -Actualización de la cadena: Si la letra está en la palabra secreta, la cadena se actualiza con la letra correcta.
+
 -Dibujo del ahorcado: Basado en el número de intentos fallidos, se dibuja el ahorcado.
+
 -Condición de victoria: Si la cadena coincide completamente con la palabra secreta, el usuario gana.
+
 -Condición de derrota: Si se agotan los intentos, el usuario pierde y se revela la palabra secreta.

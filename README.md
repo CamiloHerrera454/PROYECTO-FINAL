@@ -6,6 +6,9 @@ Materia: Lógica de Programación
 
 Nivel: 1er Semestre
 
+
+Introducción: En la era digital en la que vivimos, la programación se ha convertido en una habilidad esencial para desarrollar nuestras capacidades lógicas y creativas en el ámbito del desarrollo informático. Es por eso que aprender a programar no solo nos permite comprender mejor la tecnología que nos rodea, sino también innovar y crear soluciones a problemas complejos. El presente proyecto se centra en la programación del juego del ahorcado utilizando el lenguaje de Python, una excelente oportunidad para poner en práctica estos conocimientos y habilidades.
+
 Objetivo: El objetivo de esta introducción es resaltar la importancia de la programación en la era digital actual. Se menciona cómo aprender a programar no solo ayuda a comprender mejor la tecnología, sino también a desarrollar habilidades lógicas y creativas. Además, se presenta el proyecto del juego del ahorcado en Python como una oportunidad práctica para aplicar estos conocimientos y habilidades aprendidas en los temas 1, 2 , 3, y 4.
 
 Principales funcionalidades del programa:
